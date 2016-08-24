@@ -2,9 +2,9 @@
 <!-- saved from url=(0030)http://crossfitnewengland.com/ -->
 <html lang="en-US" class="js"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:black;text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}</style><link type="text/css" rel="stylesheet" href="<?php echo base_url(); ?>css/ejemplo/css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
 	
-	<meta name="description" content="CrossFit New England is a strength and conditioning facility that develops individuals, athletes, and teams to reach elite levels of fitness through constantly varied functional movements executed at high intensity. We are located at 15 Tech Circle, Natick MA in a 5,000 square foot warehouse gym that is 100% CrossFit.  Our training methods produce undisputed, tangible results for all levels of fitness; from children to elite athletes, and everything in between.">		
+	<meta name="description" content="Volor Crossfit is a strength and conditioning facility that develops individuals, athletes, and teams to reach elite levels of fitness through constantly varied functional movements executed at high intensity. We are located at 15 Tech Circle, Natick MA in a 5,000 square foot warehouse gym that is 100% CrossFit.  Our training methods produce undisputed, tangible results for all levels of fitness; from children to elite athletes, and everything in between.">		
 	
-	<link rel="pingback" href="http://crossfitnewengland.com/xmlrpc.php">
+	<link rel="pingback" href="#">
 
 		<!--[if lt IE 9]>
 	<script src="http://crossfitnewengland.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
@@ -14,28 +14,30 @@
 		document.documentElement.className = 'js';
 	</script>
 
-	<title>Crossfit New England | 15 Tech Circle, Natick, MA</title>
-<link rel="alternate" type="application/rss+xml" title="Crossfit New England » Feed" href="http://crossfitnewengland.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Crossfit New England » Comments Feed" href="http://crossfitnewengland.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Crossfit New England » Home Comments Feed" href="http://crossfitnewengland.com/home/feed/">
+<title>Volor Crossfit | 15 Tech Circle, Natick, MA</title>
+<link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Feed" href="http://crossfitnewengland.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Comments Feed" href="http://crossfitnewengland.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Home Comments Feed" href="http://crossfitnewengland.com/home/feed/">
+
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"<?php echo base_url(); ?>js/ejemplo/wp-emoji-release.min.js?ver=4.5.3"}};
 			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="<?php echo base_url(); ?>js/ejemplo/wp-emoji-release.min.js" type="text/javascript"></script>
-		<meta content="Divi v.2.7.8" name="generator"><style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
+		<meta content="Divi v.2.7.8" name="generator">
+		<style type="text/css">
+			img.wp-smiley,
+			img.emoji {
+				display: inline !important;
+				border: none !important;
+				box-shadow: none !important;
+				height: 1em !important;
+				width: 1em !important;
+				margin: 0 .07em !important;
+				vertical-align: -0.1em !important;
+				background: none !important;
+				padding: 0 !important;
+			}
+		</style>
 <link rel="stylesheet" id="timetable_sf_style-css" href="<?php echo base_url(); ?>css/ejemplo/superfish.css" type="text/css" media="all">
 <link rel="stylesheet" id="timetable_style-css" href="<?php echo base_url(); ?>css/ejemplo/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="timetable_event_template-css" href="<?php echo base_url(); ?>css/ejemplo/event_template.css" type="text/css" media="all">
@@ -70,19 +72,19 @@ img.emoji {
 <!-- / Google Analytics by MonsterInsights -->
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/jquery.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/jquery-migrate.min.js"></script>
-<link rel="https://api.w.org/" href="http://crossfitnewengland.com/wp-json/">
+<!--<link rel="https://api.w.org/" href="http://crossfitnewengland.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://crossfitnewengland.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://crossfitnewengland.com/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://crossfitnewengland.com/wp-includes/wlwmanifest.xml"> -->
 <meta name="generator" content="WordPress 4.5.3">
 <link rel="canonical" href="http://crossfitnewengland.com/">
-<link rel="shortlink" href="http://wp.me/P6acmH-59d">
+<!--<link rel="shortlink" href="http://wp.me/P6acmH-59d">
 <link rel="alternate" type="application/json+oembed" href="http://crossfitnewengland.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcrossfitnewengland.com%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://crossfitnewengland.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcrossfitnewengland.com%2F&amp;format=xml">
+<link rel="alternate" type="text/xml+oembed" href="http://crossfitnewengland.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcrossfitnewengland.com%2F&amp;format=xml">-->
 
-<link rel="dns-prefetch" href="http://v0.wordpress.com/">
+<!--<link rel="dns-prefetch" href="http://v0.wordpress.com/">
 <link rel="dns-prefetch" href="http://i0.wp.com/">
 <link rel="dns-prefetch" href="http://i1.wp.com/">
-<link rel="dns-prefetch" href="http://i2.wp.com/">
+<link rel="dns-prefetch" href="http://i2.wp.com/">-->
 <style type="text/css">img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">		<style id="theme-customizer-css">
 																									#top-header, #et-secondary-nav li ul { background-color: #1f0050; }
 																
@@ -115,10 +117,10 @@ img.emoji {
 	
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="Crossfit New England">
+<meta property="og:title" content="Volor Crossfit">
 <meta property="og:description" content="15 Tech Circle, Natick, MA">
 <meta property="og:url" content="http://crossfitnewengland.com/">
-<meta property="og:site_name" content="Crossfit New England">
+<meta property="og:site_name" content="Volor Crossfit">
 <meta property="og:image" content="<?php echo base_url(); ?>img/dragon-555d3c9dv1_site_icon.png?fit=512%2C512">
 <meta property="og:image:width" content="512">
 <meta property="og:image:height" content="512">
@@ -187,7 +189,7 @@ padding-right: 10px !important;
 							<div class="logo_container">
 					<span class="logo_helper"></span>
 					<a href="http://crossfitnewengland.com/">
-						<img src="<?php echo base_url(); ?>img/volor_logo.jpg" alt="Crossfit New England" id="logo" data-height-percentage="54" data-actual-width="132" data-actual-height="75">
+						<img src="<?php echo base_url(); ?>img/volor_logo.jpg" alt="Volor Crossfit" id="logo" data-height-percentage="54" data-actual-width="132" data-actual-height="75">
 					</a>
 				</div>
 				<div id="et-top-navigation" data-height="66" data-fixed-height="40" style="padding-left: 106px;">
@@ -358,8 +360,8 @@ padding-right: 10px !important;
 
 
 				
-			</div> <!-- .et_pb_section --><!--<div class="et_pb_section et_pb_section_parallax  et_pb_section_2 et_pb_with_background et_section_regular"> class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url()?>img/fondo_2.jpg);-->
-			</div> <!-- .et_pb_section --><div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url()?>img/fondo_2_oscuro.jpg);> 
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_parallax  et_pb_section_2 et_pb_with_background et_section_regular" > 
+			 <!-- .et_pb_section --><!--<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url()?>img/fondo_2_oscuro.jpg);"> </div>-->
 
 
 
