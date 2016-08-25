@@ -274,7 +274,7 @@ padding-right: 10px !important;
 				<div class="et_pb_container clearfix" style="min-height: 528px;">
 					<div class="et_pb_slide_image" style="margin-top: -180px;"><img src="<?php echo base_url(); ?>img/volor_logo_grande.png" alt="" width="400" height="361" style="max-height: 422px;" class="active"></div>
 					<div class="et_pb_slide_description">
-						<h2 class="et_pb_slide_title"><a href="http://crossfitnewengland.com/getting-started/">Frase motivacional tirando el gym pa arriba</a></h2>
+						<h2 class="et_pb_slide_title"><a href="http://crossfitnewengland.com/getting-started/">AUN NO SABES LO QUE PUEDES LOGRAR, ÚNETE A NOSOTROS Y LO SABRÁS</a></h2>
 						<div class="et_pb_slide_content"> </div>
 						<a href="http://crossfitnewengland.com/getting-started/" class="et_pb_more_button et_pb_button">Haz click aquí para empezar</a>
 					</div> <!-- .et_pb_slide_description -->
@@ -287,7 +287,7 @@ padding-right: 10px !important;
 			
 				
 			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_parallax  et_pb_section_1 et_pb_with_background et_section_regular">
-				<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url();?>img/fondo_1.jpg);"></div>
+				<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url();?>img/fondo_1_oscuro.jpg);"></div>
 				
 					
 					<div class=" et_pb_row et_pb_row_0">
@@ -298,9 +298,14 @@ padding-right: 10px !important;
 				<div class="et_pb_blurb_content">
 					<div class="et_pb_main_blurb_image"><a href="http://crossfitnewengland.com/about/about-cfne/"><img src="<?php echo base_url(); ?>img/ejemplo/aboutIcon.png" alt="" class="et-waypoint et_pb_animation_off et-animated" width="32" height="32"></a></div>
 					<div class="et_pb_blurb_container">
-						<h4><a href="http://crossfitnewengland.com/about/about-cfne/">Volo Crossfit</a></h4>
-						
-<p>Descripcion corta del gym,  blablablabl blablablabl blablablabl blablablabl blablablabl blablablabl blablablabl blablablabl blablablabl blablablabl.</p>
+						<h4><a href="http://crossfitnewengland.com/about/about-cfne/">Volor Crossfit</a></h4>
+												
+						<p>
+						Volor, no es un gimnasio tradicional, somos un centro Oficial Afiliado de CrossFit, sin
+						embargo, también somos mucho más, somos un grupo unido, una familia y nuestra
+						camaradería excede la motivación, somos una comunidad que te ayudara alcanzar una
+						mejora notable en tus capacidades físicas.
+						</p>
 
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -398,8 +403,11 @@ padding-right: 10px !important;
 				<div class="et_pb_promo_description">
 					<h2>Prueba una clase gratis!</h2>
 					
-<p>Texto corto de cuando pueden hacer clase gratis, con quien se contactan, como lo agendan blablabla blablablablablabla blablabla
-blablabla blablabla blablabla blablabla</p>
+					<p>
+						Lo invitamos a ser parte de nuestra comunidad
+						e integrarse a este deporte, que sin lugar a dudas está cambiando la vida de las
+						personas
+					</p>
 
 				</div>
 				<a class="et_pb_promo_button et_pb_button" href="http://crossfitnewengland.com/schedule/">Revisa nuestros horarios</a>
@@ -447,10 +455,16 @@ blablabla blablabla blablabla blablabla</p>
 				<div class="et_pb_container clearfix" style="min-height: 429px;">
 					
 					<div class="et_pb_slide_description">
-						<h2 class="et_pb_slide_title">Aqui dice algo de que el grupo es unido.</h2>
+						<h2 class="et_pb_slide_title">Que es CrossFit</h2>
 						<div class="et_pb_slide_content">
-<p>Todos son amigos pura buena onda pa que la gente enganche.</p>
-</div>
+							<p>
+								Es un deporte donde se busca que los seres humanos seamos capaces de lograr un
+								equilibrio en todas las habilidades físicas, en un entrenamiento y en la vida misma. La
+								motivación, la competición contra uno mismo y contra reloj y el sentimiento de
+								comunidad que se forma en cada clase, son claves a la hora de mejorar su condición
+								física y salud.
+							</p>
+						</div>
 						
 					</div> <!-- .et_pb_slide_description -->
 				</div> <!-- .et_pb_container -->
