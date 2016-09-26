@@ -6226,14 +6226,14 @@ ul.et_pb_side_nav .side_nav_item a.active {
 	transition: all 0.2s;
 }
 
-.et_pb_button:hover:after,
+/*.et_pb_button:hover:after,
 .et_pb_more_button:hover:after,
 .et_pb_promo_button:hover:after,
 .et_pb_newsletter_button:hover:after,
 .et_pb_pricing_table_button:hover:after {
 	margin-left: 0;
 	opacity: 1;
-}
+}*/
 
 /* Button Hover - No Icon */
 .et_pb_contact_reset:hover {

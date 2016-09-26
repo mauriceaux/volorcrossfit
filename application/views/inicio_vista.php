@@ -72,6 +72,16 @@
 <!-- / Google Analytics by MonsterInsights -->
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/jquery.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/jquery-migrate.min.js"></script>
+<!-- Magnific Popup core CSS file -->
+<link rel="stylesheet" href="<?php echo base_url(); ?>css/ejemplo/magnific_popup.css">
+
+<!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<!-- Magnific Popup core JS file -->
+<script src="<?php echo base_url(); ?>js/ejemplo/jquery.magnific-popup.js"></script>
+
+
 <!--<link rel="https://api.w.org/" href="http://crossfitnewengland.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://crossfitnewengland.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://crossfitnewengland.com/wp-includes/wlwmanifest.xml"> -->
@@ -341,59 +351,12 @@ padding-right: 10px !important;
 			</div> <!-- .et_pb_row -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 				
 			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_parallax  et_pb_section_2 et_pb_with_background et_section_regular" > 
 			 <!-- .et_pb_section --><!--<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(<?php echo base_url()?>img/fondo_2_oscuro.jpg);"> </div>-->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-				
 					
 					<div class=" et_pb_row et_pb_row_1">
 				
@@ -410,7 +373,14 @@ padding-right: 10px !important;
 					</p>
 
 				</div>
-				<a class="et_pb_promo_button et_pb_button" href="http://crossfitnewengland.com/schedule/">Revisa nuestros horarios</a>
+				<a class="et_pb_promo_button et_pb_button test-popup-link" href="<?php echo base_url()?>img/flyer volor-page-001.jpg">Revisa nuestros horarios</a>
+				
+
+
+
+
+
+
 			</div>
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_4">
 				
@@ -521,6 +491,7 @@ padding-right: 10px !important;
 				
 				</article> <!-- .et_pb_post -->
 
+
 			
 
 </div> <!-- #main-content -->
@@ -621,7 +592,7 @@ var et_pb_custom = {"ajaxurl":"http:\/\/crossfitnewengland.com\/wp-admin\/admin-
 </script>
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/frontend-builder-scripts.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/wp-embed.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/js"></script>
+<script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/bootstrap.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>js/ejemplo/e-201632.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
@@ -631,3 +602,10 @@ var et_pb_custom = {"ajaxurl":"http:\/\/crossfitnewengland.com\/wp-admin\/admin-
 
 <img src="<?php echo base_url(); ?>img/ejemplo/g.gif" alt=":)" width="6" height="5" id="wpstats"></body></html>
 
+<script type="text/javascript">
+	$('.test-popup-link').magnificPopup({
+	  type: 'image'
+	  // other options
+	});
+
+</script>
