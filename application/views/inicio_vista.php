@@ -177,7 +177,6 @@ padding-right: 10px !important;
 
 			
 				<div id="et-info">
-									<span id="et-info-phone">(508) 808-4301</span>
 				
 									<a href="mailto:Bridget@CrossFitNewEngland.com"><span id="et-info-email">contacto@volorcrossfit.cl</span></a>
 				
