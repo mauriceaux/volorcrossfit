@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://localhost/crossfitvolor';
-$config['base_url'] = 'http://volorprueba.esy.es';
+$config['base_url'] = 'http://www.volorcrossfit.cl';
 
 /*
 |--------------------------------------------------------------------------
