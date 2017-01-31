@@ -391,7 +391,8 @@ padding-right: 10px !important;
 							<h4><a href="https://www.facebook.com/Volor-CrossFit-1508976119346302/?fref=ts"  target="_blank">Volor en Facebook</a></h4> 
 						</div>
 					</div> <!-- .et_pb_blurb_content -->
-				</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et-hide-mobile"></div><div class="et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_left  et_pb_blurb_4 et_pb_blurb_position_left">
+				</div> <!-- .et_pb_blurb -->
+				
 				<!--<div class="et_pb_blurb_content">-->
 					<!--<div class="et_pb_main_blurb_image"><a href="https://twitter.com/cfnewengland" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/cfnewengland&#39;, &#39;&#39;);" target="_blank"><span class="et-pb-icon et-waypoint et_pb_animation_off et-animated" style="color: #0099ff;"></span></a></div>-->
 					<!--<div class="et_pb_blurb_container">
