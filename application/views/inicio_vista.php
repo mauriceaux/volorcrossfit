@@ -185,7 +185,7 @@ padding-right: 10px !important;
 			
 				<div id="et-secondary-menu">
 				<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19796"><a href="https://www.facebook.com/Volor-CrossFit-1508976119346302/?fref=ts">Volor en Facebook</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19797"><a href="https://twitter.com/cfnewengland" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-widget&#39;, &#39;https://twitter.com/cfnewengland&#39;, &#39;CFNE on Twitter&#39;);">Volor en Twitter</a></li>
+<!--<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19797"><a href="https://twitter.com/cfnewengland" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-widget&#39;, &#39;https://twitter.com/cfnewengland&#39;, &#39;CFNE on Twitter&#39;);">Volor en Twitter</a></li>-->
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19798"><a href="https://www.instagram.com/volorcrossfit/" >Volor en Instagram</a></li>
 </ul>				</div> <!-- #et-secondary-menu -->
 
@@ -214,14 +214,14 @@ padding-right: 10px !important;
 	<li id="menu-item-17358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17358"><a href="http://crossfitnewengland.com/high-school-middle-school-kids-program/">High School and Middle School Program</a></li>
 	<li id="menu-item-4201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4201"><a href="http://crossfitnewengland.com/videos/">Videos</a></li>
 </ul>
-</li>
+<!--</li>
 <li id="menu-item-19814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19814"><a href="http://crossfitnewengland.com/wods-news/">WOD</a></li>
 <li id="menu-item-4200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4200"><a href="http://crossfitnewengland.com/schedule/">Horarios</a></li>
 <li id="menu-item-4206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4206"><a href="http://crossfitnewengland.com/getting-started/">Menu 1</a></li>
 <li id="menu-item-5380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5380"><a href="http://crossfitnewengland.com/before-after/">Menu 2</a></li>
 <li id="menu-item-4202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4202"><a href="http://crossfitnewengland.com/contact-us/">Menu 3</a></li>
 <li id="menu-item-19795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19795"><a href="http://crossfitnewengland.com/events2/">Eventos</a></li>
-<li id="menu-item-22128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22128"><a href="http://crossfitnewengland.com/careers/">Competencias</a></li>
+<li id="menu-item-22128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22128"><a href="http://crossfitnewengland.com/careers/">Competencias</a></li>-->
 </ul>						</nav>
 					
 					
