@@ -2,7 +2,7 @@
 <!-- saved from url=(0030)http://crossfitnewengland.com/ -->
 <html lang="en-US" class="js"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:black;text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}</style><link type="text/css" rel="stylesheet" href="<?php echo base_url(); ?>css/ejemplo/css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
 	
-	<meta name="description" content="Volor Crossfit is a strength and conditioning facility that develops individuals, athletes, and teams to reach elite levels of fitness through constantly varied functional movements executed at high intensity. We are located at 15 Tech Circle, Natick MA in a 5,000 square foot warehouse gym that is 100% CrossFit.  Our training methods produce undisputed, tangible results for all levels of fitness; from children to elite athletes, and everything in between.">		
+	<meta name="description" content="Volor Crossfit está revolucionando el crossfit en Viña del Mar, ven a conocernos!">		
 	
 	<link rel="pingback" href="#">
 
@@ -14,7 +14,7 @@
 		document.documentElement.className = 'js';
 	</script>
 
-<title>Volor Crossfit | 15 Tech Circle, Natick, MA</title>
+<title>Volor Crossfit</title>
 <link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Feed" href="http://crossfitnewengland.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Comments Feed" href="http://crossfitnewengland.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Volor Crossfit » Home Comments Feed" href="http://crossfitnewengland.com/home/feed/">
@@ -184,9 +184,9 @@ padding-right: 10px !important;
 
 			
 				<div id="et-secondary-menu">
-				<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19796"><a href="http://www.facebook.com/pages/CrossFit-New-England/204292929657621" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-widget&#39;, &#39;http://www.facebook.com/pages/CrossFit-New-England/204292929657621&#39;, &#39;CFNE on Facebook&#39;);">Volor en Facebook</a></li>
+				<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19796"><a href="https://www.facebook.com/Volor-CrossFit-1508976119346302/?fref=ts">Volor en Facebook</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19797"><a href="https://twitter.com/cfnewengland" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-widget&#39;, &#39;https://twitter.com/cfnewengland&#39;, &#39;CFNE on Twitter&#39;);">Volor en Twitter</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19798"><a href="https://instagram.com/cfne/" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-widget&#39;, &#39;https://instagram.com/cfne/&#39;, &#39;CFNE on Instagram&#39;);">Volor en Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19798"><a href="https://www.instagram.com/volorcrossfit/" >Volor en Instagram</a></li>
 </ul>				</div> <!-- #et-secondary-menu -->
 
 			</div> <!-- .container -->
@@ -285,7 +285,7 @@ padding-right: 10px !important;
 					<div class="et_pb_slide_description">
 						<h2 class="et_pb_slide_title"><a href="http://crossfitnewengland.com/getting-started/">AUN NO SABES LO QUE PUEDES LOGRAR, ÚNETE A NOSOTROS Y LO SABRÁS</a></h2>
 						<div class="et_pb_slide_content"> </div>
-						<a href="http://crossfitnewengland.com/getting-started/" class="et_pb_more_button et_pb_button">Haz click aquí para empezar</a>
+						<!--<a href="http://crossfitnewengland.com/getting-started/" class="et_pb_more_button et_pb_button">Haz click aquí para empezar</a>-->
 					</div> <!-- .et_pb_slide_description -->
 				</div> <!-- .et_pb_container -->
 				
@@ -372,7 +372,7 @@ padding-right: 10px !important;
 					</p>
 
 				</div>
-				<a class="et_pb_promo_button et_pb_button test-popup-link" href="<?php echo base_url()?>img/flyer volor-page-001.jpg">Revisa nuestros horarios</a>
+				<a class="et_pb_promo_button et_pb_button test-popup-link" href="<?php echo base_url()?>img/flyer volor-page-001.jpg">Revisa nuestros horarios y precios</a>
 				
 
 
@@ -387,7 +387,7 @@ padding-right: 10px !important;
 				<div class="et_pb_blurb_content">
 					<div class="et_pb_main_blurb_image"><a href="http://www.facebook.com/pages/CrossFit-New-England/204292929657621" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://www.facebook.com/pages/CrossFit-New-England/204292929657621&#39;, &#39;&#39;);" target="_blank"><span class="et-pb-icon et-waypoint et_pb_animation_off et-animated" style="color: #0099ff;"></span></a></div>
 					<div class="et_pb_blurb_container">
-						<h4><a href="http://www.facebook.com/pages/CrossFit-New-England/204292929657621" onclick="__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://www.facebook.com/pages/CrossFit-New-England/204292929657621&#39;, &#39;CFNE on Facebook&#39;);" target="_blank">Volor en Facebook</a></h4>
+						<h4><a href="https://www.facebook.com/Volor-CrossFit-1508976119346302/?fref=ts"  target="_blank">Volor en Facebook</a></h4>
 						 
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
